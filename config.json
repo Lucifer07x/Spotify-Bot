@@ -1,3 +1,4 @@
 {
-	"prod" : true
+	"prod" : false
 }
+python3 spotify_bot.py
